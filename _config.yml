@@ -3,7 +3,7 @@
 title: DayDreams in Ruby
 locale: en_US
 description: Thoughts on being a developer
-logo: allison_mcmillan.jpg
+logo: Allison_McMillan.jpg
 search: true
 url:
 
@@ -37,7 +37,7 @@ exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.
 # Site owner
 owner:
   name: Allison McMillan
-  avatar: allison_mcmillan.jpg
+  avatar: Allison_McMillan.jpg
   email: asheren@gmail.com
   disqus-shortname:
   twitter: allie_p
