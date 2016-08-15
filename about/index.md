@@ -1,26 +1,10 @@
 ---
 layout: page
-title: About the Jekyll Theme
-excerpt: "So Simple is a responsive Jekyll theme for your words and images."
-modified: 2014-08-08T19:44:38.564948-04:00
-image:
-  feature: so-simple-sample-image-4.jpg
-  credit: WeGraphics
-  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
+title: About Me
+excerpt: "Just a developer looking to explore"
 ---
 
-Looking for a simple, responsive, theme for your Jekyll powered blog? Well look no further. Here be **So Simple Theme**, the follow up to [**Minimal Mistakes**](http://mmistakes.github.io/minimal-mistakes) --- by designer slash illustrator [Michael Rose](http://mademistakes.com).
+Hi. I'm a software engineer with a few careers in my past. I've been a startup founder, community builder at the University of Michigan, and Managing Director of a national non-profit. I started programming at a Rail Girls workshop a few years ago and am now a chapter organizer. I speak at conferences on a variety of topics including mentorship, working remotely, and being a parent and a developer. When i'm not coding, you can find me encouraging my toddler's climbing skills or pretending I have time to bake. I live in the Washington, DC area and help co-organize [United Silver Spring Ruby](http://www.meetup.com/United-Silver-Spring-Ruby/).
 
-## So Simple Theme is all about:
-
-* Responsive templates. Looking good on mobile, tablet, and desktop.
-* Gracefully degrading in older browsers. Compatible with Internet Explorer 9+ and all modern browsers.
-* Minimal embellishments and subtle animations.
-* Optional large feature images for posts and pages.
-* [Custom 404 page]({{ site.url }}/404.html) to get you started.
-* [Simple site search](https://github.com/christian-fei/Simple-Jekyll-Search)
-* Support for Disqus Comments
-
-<a markdown="0" href="{{ site.url }}/theme-setup" class="btn">Install So Simple Theme</a>
-
-[^1]: Example: *domain.com/category-name/post-title*
+You can learn more about my professional experience by looking at my
+[CV.](http://localhost:4000/allison_mcmillan_cv.pdf){:target="_blank"}

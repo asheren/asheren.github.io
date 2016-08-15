@@ -1,0 +1,15 @@
+---
+layout: post
+title: Haml anyone?
+date: '2014-06-04T16:22:00.003-04:00'
+author: Allison McMillan
+tags:
+- Design
+- software development
+- haml
+modified_time: '2014-06-04T16:22:29.239-04:00'
+blogger_id: tag:blogger.com,1999:blog-6054545261088815023.post-5690602422936607560
+blogger_orig_url: http://allisonsherenmcmillan.blogspot.com/2014/06/haml-anyone.html
+---
+
+I announced to the social-media-verse earlier last week that I was starting as an engineer at General Assemb.ly! I’m really excited to be a part of their team and it looks like I’m going to be working on some really interesting projects and products in online education, among other things. <br /><br />One of the first things I did this week was learn some haml. Haml is a markup language that allows someone to “cleanly and simply describe the html of any web document”. Basically haml is cool because it lets you do the same thing you’d do with html or html.erb files but with much less code.<br /><br />For example, you don’t have to close tags! So instead of writing<code> <br />&lt;h1&gt;This is great&lt;/h1&gt;</code> all you do instead is <code>%h1</code> Amazing!!<br /><br />I was really curious then as to how this affects being able to dictate classes and ids for the scss I’ve gotta put in. Well, reading through that was when I decided to write this post because it’s so clean and simple. You use the same symbols you would in the css doc but in the haml doc. For example, <code>%div#awesome</code> is equal to<br /><code><br />&lt;div id="’awesome’"&gt;<br />&lt;/div&gt;<br />&lt;code&gt;. For classes, it’s similar to %div.more.amazing.stuff is like typing &lt;code&gt; &lt;/code&gt;&lt;/code&gt;<br />&lt;div amazing="" class="’more" stuff=""&gt;<br />&lt;/div&gt;<br /></code>. <br />The only annoying part (so far) is that you have to be careful about your spaces/spacing so it will error if you don't have the right number of spaces as you nest.<br /><br />There’s lots more and the docs are surprisingly good so check out the resources here: <a href="http://haml.info/docs/yardoc/file.REFERENCE.html">http://haml.info/docs/yardoc/file.REFERENCE.html</a><br /><br />And here: <a href="http://haml.info/">http://haml.info/</a>

@@ -1,0 +1,16 @@
+---
+layout: post
+title: 'Keynote: Code StoryTelling '
+date: '2013-11-25T11:36:00.000-05:00'
+author: Allison McMillan
+tags:
+- ruby
+- becoming a developer
+- deep thoughts
+- rubyconf 2013
+modified_time: '2013-11-25T11:36:12.283-05:00'
+blogger_id: tag:blogger.com,1999:blog-6054545261088815023.post-6722535075946757841
+blogger_orig_url: http://allisonsherenmcmillan.blogspot.com/2013/11/keynote-code-storytelling.html
+---
+
+The third day’s <a href="http://rubyconf.org/program#ernie-miller">keynote</a> was pretty interesting. <a href="https://twitter.com/erniemiller">Ernie Miller</a> was talking about writing code and particularly writing ruby. The main premise of the talk was that your code should tell a story. In order to tell that story, things should be clean and clear. I learned lots of new terms and extensions of terms I already knew. A good way to tell the complexity of code is through branching. Branching shows how complex code is by showing how many branches it has. Branches are determined by places in which code could go more than one way. For example, an if statement counts as a branch because it shows code choosing one path or another. <br /><br />Earlier in the talk, he spoke about rules of class macros. Classes should be easy to understand, order independent, free of branches, show what and not how, and idempotent. He also talked about callbacks. I didn’t previously know that there were so many different types of callbacks. There are reverse callbacks, around callbacks, and skip callbacks.<br /><br />The final term I learned was prepend. Prepend relates to include and extend, but different. Prepend is related to include but in include, methods on the class are a higher priority than methods included from modules but prepend changes that! When you use prepend, the priority order changes so you can say prepend A for example and then A would be a higher priority than the other methods in the class.<br /><br />Obviously this talk had a better flow than the notes presented here. He went over a lot of different ways to write ruby and styles. I just took notes on the terms I didn’t know previously and wanted to look into after the talk. Fortunately for everyone, the slides are up! <a href="https://speakerdeck.com/erniemiller/thats-not-very-ruby-of-you">https://speakerdeck.com/erniemiller/thats-not-very-ruby-of-you</a><br />

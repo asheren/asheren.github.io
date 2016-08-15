@@ -1,0 +1,15 @@
+---
+layout: post
+title: Modeling the app store and more
+date: '2014-03-30T00:13:00.000-04:00'
+author: Allison McMillan
+tags:
+- emberconf 2014
+- cool things
+- ember
+modified_time: '2014-03-30T00:13:01.636-04:00'
+blogger_id: tag:blogger.com,1999:blog-6054545261088815023.post-5836698017527719481
+blogger_orig_url: http://allisonsherenmcmillan.blogspot.com/2014/03/modeling-app-store-and-more.html
+---
+
+<br />This session was a really cool session that showcased what ember can do and something that was build with ember as opposed to diving into a specific tool or component of the framework. Presented by <a href="https://twitter.com/mutewinter">Jeremy Mack</a>, the talk was about how he used tapas with ember and built a search engine without a server. Jeremy looked at the app store and was annoyed with the silly popup links and the lack of good functionality in the app store.<br /><br />The first issue he discussed was that there are lots of different data types in the app store. The core model is the iTunes item and an iTunes item has data like price, artwork, name, etc. Everything else inherits from iTunes item.<br /><br />Jeremy then talked about mixins, which let you encapsulate functionality and reuse them. Mixins are kind of like components (I think) but components focus on the template and what you see whereas mixins focus on properties that can be added to other classes.  The app mixin that was created are comprised of things that ALL apps have. These are aspects like screenshots, version, developer, and more. Then there is a genre mixin, and other mixin types. The app uses different mixins depending on if the iTunes item is a song, app, movie, or other option.<br /><br />Then there is an adapter. The adapter is code that talks to a specific endpoint. In addition, there are then serializers. The serializers turn the adapter stuff into the format that you want it in.<br /><br />Going back to talking about the iTunes item… it has classifies, polymorphism and sideloading. Classifiers are different properties that we know about. There’s a top charts serializer which uses the ID to transform the top charts data into the correct format. Then there are also relationships which map the parent-child relationships using ember data. It also maps the other data (ie- bringing into the app view information from youtube, rotten tomatoes, etc.). There is a fetcher which is defined in the controller. It takes care of pagination (custom built in this app), uses the identity map to de-duplicate, looks at required params, max results, etc.<br /><br />Finally, in the templates for the app, there were lots of partials utilized, which is interesting. And as a sidenote, he uses fastclick to optimize the touch response.<br /><br />Finally, here’s the app! It’s amazing so check it ou: <a href="http://fnd.io/">fnd.io</a>

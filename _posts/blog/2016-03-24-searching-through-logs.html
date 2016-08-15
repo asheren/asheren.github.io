@@ -1,0 +1,16 @@
+---
+layout: post
+title: Searching through logs
+date: '2016-03-24T12:24:00.000-04:00'
+author: Allison McMillan
+tags:
+- logs
+- becoming a developer
+- learning
+- helpful tools
+modified_time: '2016-03-24T12:24:24.244-04:00'
+blogger_id: tag:blogger.com,1999:blog-6054545261088815023.post-8871966302843166537
+blogger_orig_url: http://allisonsherenmcmillan.blogspot.com/2016/03/searching-through-logs.html
+---
+
+Recently, I needed to check out which endpoints in a specific version of our api were being hit/ if they were being hit at all. This involves searching through the paper trail logs, which was an interesting process so I thought I’d write about it.<br /><br />First, I want to say, there is a better path than the one I took. It wasn’t until after I did all this log downloading and searching that I discovered the paper trail CLI. I haven’t had a chance to take a deep dive into it yet, but I assume using it is better than downloading 30 days of log files and than combining them into 1 log file.<br /><br />Which is what I did first. I had to look at 30 days worth of logs, so I went to the paper trail heroku add-on and downloaded all 30 days worth of logs. Then I used <code> cat *.tsv &gt;merged.tsv</code> to put all of the 30 files into 1 file. After that, I checked which endpoints I needed to look at by just looking at the routes file. Luckily, there are a pretty finite number of endpoints for the specific version I was looking at. I think, if I was dealing with significantly more endpoints, i’d need to figure out a better systems for ensuring that I’ve checked all the endpoints.<br /><br />Then, for the simple endpoints (ie- /livestreams or /livestreams.json for the index endpoint or /livestreams/ for the show endpoints) I just ran a simple <code>grep -c</code> command which greps for that path and then counts it. For example <code> cat FILE_PATH | grep -c /v1/livestreams.json</code>.<br /><br />When I got to a slightly more complex endpoint, for example, one that had a path like /v1/livestreams/something_unique_here/watched I couldn’t just grep for the endpoint, I needed to use a grep compatible regex to find the number of results that had “watched” at the end. I did this by searching <code> cat FiLE_PATH | grep -c ‘/watched\b’</code> which looks only for the last bit of the url.<br /><br />And that’s it. Pretty simple but I hadn’t handled searching through large log files or any sort of complex grepping before.

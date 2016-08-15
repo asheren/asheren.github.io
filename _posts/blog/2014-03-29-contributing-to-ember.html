@@ -1,0 +1,16 @@
+---
+layout: post
+title: Contributing to Ember
+date: '2014-03-29T14:42:00.001-04:00'
+author: Allison McMillan
+tags:
+- emberconf 2014
+- becoming a developer
+- projects
+- ember
+modified_time: '2014-03-29T14:42:58.097-04:00'
+blogger_id: tag:blogger.com,1999:blog-6054545261088815023.post-1275909786966314550
+blogger_orig_url: http://allisonsherenmcmillan.blogspot.com/2014/03/contributing-to-ember.html
+---
+
+The next session was on <a href="https://speakerdeck.com/rwjblue/contributing-to-ember">Contributing to Ember</a>. This is going to be a pretty short write up because a lot of the talk just went of the technical structure of how to contribute.  <br /><br />The three types of contributions are primarily fixing/cleaning up the docs, reporting and/or fixing bus, and submitting new features.<br /><br />First step is to pick the right repo. If you’re looking at the docs, there is a guides repo and a main repo. For each of the types of contributions, there is a naming convention that goes along with the commit and you want to make sure to use the right prefix for what you’re committing. Because I’m mostly interesting in looking at the docs, I took the most notes around there. There are three kinds of commit prefixes [DOC], [DOC beta], and [DOC release]. For bug fixes, when submitting something you want to make sure to add a test that shows regression. If you can show a test, then you definitely need to show instructions and do a <a href="http://jsbin.com/welcome/1/edit">jsbin</a> with specific information. The main point emphasized here was to make it as easy as possible for others to see the bug you are talking about… especially if you are submitting a bug report but not necessarily fixing the bug.<br /><br />Another important emphasis was on security. Mainly, DO NOT report security issues on github. For those, email the security team privately.<br /><br />For submitting features, all features are behind feature flags. In features, you want to look at the JSON to see if the feature is enabled or not. There are specific feature commit message instructions with specific message types and you want to make sure to hide changed behind flags.<br /><br />Finally, they talked about the release cycle, which was interesting. There are basically three channels and six-week cycles. The three channels are beta, canary, and release. Beta is branched from canary and includes bug fixes, doc updates, and goes on a weekly release cycle. Canary is everything, new features, bug fixes, etc. Release is also branched from beta and it’s doc updates, major regressions, and security fixes.<br /><br />I have to admit, I was a little intimidated at the end of this talk. I really want to contribute to open source, especially to something like the ember docs where I feel I could maybe help pinpoint confusing points or rephrase to make things more understandable, but walking through this process made me pretty nervous about screwing up the prefix or process.

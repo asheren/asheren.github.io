@@ -1,0 +1,18 @@
+---
+layout: post
+title: Ember Components transclude my directives
+date: '2014-03-29T23:38:00.002-04:00'
+author: Allison McMillan
+tags:
+- css
+- emberconf 2014
+- javascript
+- deep thoughts
+- fun tools
+- ember
+modified_time: '2014-03-29T23:38:50.842-04:00'
+blogger_id: tag:blogger.com,1999:blog-6054545261088815023.post-895039699246236219
+blogger_orig_url: http://allisonsherenmcmillan.blogspot.com/2014/03/ember-components-transclude-my.html
+---
+
+<br /><a href="http://johnkpaul.github.io/presentations/emberconf/components-transclude-directives/#/">This talk</a> was given by <a href="http://www.twitter.com/johnkpaul">John K. Paul</a> and I have to say, I learned A LOT during it. As I mentioned, components were mentioned a lot during this conference but this session gave me some interesting understanding of additional terms and a little bit of Angular.<br /><br />In Angular, directives make custom widgets. They decorate existing HTML with additional functionality… essentially a piece of HTML and a piece of javascript. In directives, you can also restrict based on specific parts. For example, restrict E means restrict based on an element, restrict C means restrict based on a class.<br /><br />Transclusion is the inclusion of one thing into something else. Directives are used for making a DSL in your HTML but in order to do that, there are lots of knobs and levers and you need to understand lots of stuff to make that happen. For example, you put transclude: true in a directive definition which takes whatever is inside the element and moves it into the html where “ng-transclude” is written.<br /><br />Ember’s got something similar to directives and those are components… except that components are much cooler and much easier to understand and create. An ember component is a custom component that you can use in many different places.  The more general form of this are web components which are discussed in the <a href="http://extensiblewebmanifesto.org/">extensible web manifesto</a> (more on that in a later post) but it is basically rolling your own reusable widget. Ember components let us do something like this now and allows us to encapsulate HTML, CSS, and JS. It lets us package together a structure and behavior. <br /><br />An example John K. Paul used was ember tabs, which are also ember components. They’re reusable. More examples are x-tabs and x-pane. The best thing about components is that you can take this functionality that is encapsulated in this component and just copy and paste it into your code, change very few things and have it good to go in the app you’re working on. The last slide talked about ember component lists that Eric Berry (<a href="http://coderberry.me/">http://coderberry.me/</a>) and John K. Paul (<a href="https://gist.github.com/johnkpaul/6796944">https://gist.github.com/johnkpaul/6796944</a>) have been putting together and urged other people to add to it as they create components. I, for one, think a collective list like this would be amazing and I’m very excited to use components more and experiment with how to use them to make us more productive and make our app better!

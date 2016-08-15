@@ -1,0 +1,19 @@
+---
+layout: post
+title: So Many Random Learnings
+date: '2014-03-18T17:25:00.000-04:00'
+author: Allison McMillan
+tags:
+- code tools
+- ruby
+- cool things
+- becoming a developer
+- learning
+- git
+- command line
+modified_time: '2014-03-18T17:25:12.364-04:00'
+blogger_id: tag:blogger.com,1999:blog-6054545261088815023.post-5929124457473886112
+blogger_orig_url: http://allisonsherenmcmillan.blogspot.com/2014/03/so-many-random-learnings.html
+---
+
+I love learning and in the past few weeks, I've learned so much!! In lieu of a more organized post on this stuff, here’s a random smattering of what I’ve learned the last few weeks.<br /><br /><code>Ls –lM</code> lists everything in list form<br /><code>Git rebase –i sha</code> is what you use in order to squash commits<br /><br /><code>Git rebase master</code>… I’m still learning the process and exactly how to troubleshoot this but it seems standard in worksflows that require pull requests and it’s pretty interesting to solve merge conflicts.<br /><br />Debugging (with capybara): insert a <code>save_and_open_page</code> to see what page/path opens<br /><br />Alfred workflows are amazing. I’m trying to train myself to use my mouse less. My wonderful mentor suggested that instead of going cold turkey on the mouse, I should start by getting good at just a few things. So, I’m starting with Alfred workflows and trying to get better at not using my mouse within my text editor (sublime).<br /><br />Alfred workflows that I have set up include spotify, dash, and being able to search for any file or folder on my computer. I’ve got the git workflow partially set up.<br /><br />In Sublime text, one of the most useful things I’ve learned recently is <code>CMD + . </code>will switch back and forth between the test file and file being tested. CMD T allows you to type to open a file. Just to name a few.<br />Option and highlight lets you highlight the first letter of each line<br /><br /><br /><code>Git commit</code> (without –m, etc.) will open your text editor so you can do the commit message there, save it, close it and it’ll bring you back to the command line and finish the commit<br /><code>Git checkout – </code>brings you back to the last branch you were on<br /><code>Git rebase –i HEAD ~1</code> rolls back 1 commit (~2 rolls back 2 commits)<br /><br />From the command line putting <code>touch </code>and then the path with the filename at the end will create that file<br /><br />When squashing commits (which means making multiple commits into one commit), you always ‘s’ (squash) the second one<br /><br /><a href="https://github.com/preston/railroady">Gem railroady</a> produces a UML diagram of your code structure<br /><br />Kill process… somehow I created a connection with a server and then I created a second connection with a server and then couldn’t get one of those connections to close! <br /><code>ps aux | grep <thing you’re looking for, in this case thin> </code>finds the process so you can see if it’s running (I’ve since used this <code>ps aux | grep ruby</code> and <code> ps aux | grep puma</code>)<br />Then <code>kill -9 prodID</code> (number all the way to the left) kills it. Alternatively, you can also kill it by doing <code>killall -9 thin</code> (or whatever you’re trying to kill)<br />

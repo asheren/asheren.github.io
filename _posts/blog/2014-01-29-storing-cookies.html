@@ -1,0 +1,15 @@
+---
+layout: post
+title: Storing cookies
+date: '2014-01-29T19:07:00.000-05:00'
+author: Allison McMillan
+tags:
+- ruby
+- becoming a developer
+- gem
+modified_time: '2014-01-29T19:07:10.318-05:00'
+blogger_id: tag:blogger.com,1999:blog-6054545261088815023.post-569640567027053943
+blogger_orig_url: http://allisonsherenmcmillan.blogspot.com/2014/01/storing-cookies.html
+---
+
+Once we established the connection with the website and authenticated, we then needed to take the cookie that we got back and save it so that we could call it in the future. I did a bunch of research and looked at a bunch of different options. Quickly, I narrowed it down to a few possibilities. I was considering HTTParty which I had heard good things about and seemed to have good reviews from people about being easy to use and implement. The other option was Faraday which also seems to be pretty popular and was super easy to set up and get running, at least to establish the connection. I also researched an option that included using curl commands in order to save and then reaccess the cookie. There were a few faraday middleware gems that I experimented with but in the end didn’t need to use them. I ended up with this:<br /><br /><code>@authentication_cookie = response.env[:response_headers]["set-cookie"] </code><br /><br />This line finds the header “set-cookie” in the response and sets it to the instance variable.<br />Then, I wrote this<br /><pre>response = conn.get do |req|<br />  req.headers['cookie'] = authentication_cookie<br />  req.url endpoint, params <br />end <br /><br />return response.body<br /></pre><br /><br />This code makes another request from the same connection established earlier and sets the header cookies to authentication cookie. It then tells the connection to use a specific endpoint (using the API, based on what information you would like) and adds some parameters. This sets the response to whatever is returned from the api and then <code>response.body</code> takes that response and prints out the content of the response but without the headers or other junk we don’t really want to see.

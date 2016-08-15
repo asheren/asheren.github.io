@@ -1,0 +1,15 @@
+---
+layout: post
+title: Halfway there. Euler 5.
+date: '2013-10-22T10:08:00.001-04:00'
+author: Allison McMillan
+tags:
+- euler
+- learning
+- math
+modified_time: '2013-10-22T10:08:18.099-04:00'
+blogger_id: tag:blogger.com,1999:blog-6054545261088815023.post-4089763148536002826
+blogger_orig_url: http://allisonsherenmcmillan.blogspot.com/2013/10/halfway-there-euler-5.html
+---
+
+Euler 5! Phew, so, this marked my halfway point through the 10 problems I decided to do in Project Euler.<br /><br />So, here is the problem:<br /><br /><pre>2520 is the smallest number that can be divided by each of the numbers <br /> from 1 to 10 without any remainder.<br /> What is the smallest positive number that is evenly divisible by <br /> all of the numbers from 1 to 20?<br /></pre><pre></pre>For this problem, I actually solved it in a really ugly, awful way and then went back to refactor . I can't remember exactly but I think the ugly way involved taking a range of numbers, multiplying all of them and then seeing which was the smallest that had a remainder of 0 for each of the numbers... whatever it was, it was super complicated. Anyway, so first, the tests:<br /><br /><pre>require 'problem5/problem5'<br />describe 'lowest common multiple' do <br />  it "find the smallest number that can be divided by 1 through 10 with no remainder" do <br />    expect(Problem5.divided_by(1...10)).to eq 2520<br />  end<br /><br />  it "finds the smallest number that can be divided by 1 through 20 with no remainder" do <br />    expect(Problem5.divided_by(1...20)).to eq 232792560<br />  end<br />end<br /></pre><br />At this point, if you've been reading the Euler series of this blog, you'll notice a pattern to all of the tests. This may not be the most sophisticated way to execute the tests since rspec can do a lot of cool things, but using the same format worked for and was a way I became comfortable with seeing tests formats, running the tests, etc.<br /><br />Now for the answer:<br /><pre>module Problem5<br /><br />def self.divided_by(number_range)<br />  list = (number_range).inject(:lcm)<br />  return list<br />end<br /><br />puts Problem5.divided_by(1..20)<br /><br />end<br /></pre><br />so, once I started reading the ruby docs, I noticed there was a greatest common denominator and a least common multiple method with an integer. Looking into those, the least common multiple method was a perfect, simple way to solve this problem. The inject plus LCM method on an integer basically takes a list and finds the lowest common multiple of that range of numbers.

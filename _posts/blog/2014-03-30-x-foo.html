@@ -1,0 +1,16 @@
+---
+layout: post
+title: "{{x-foo}}"
+date: '2014-03-30T11:06:00.002-04:00'
+author: Allison McMillan
+tags:
+- components
+- emberconf 2014
+- learning
+- ember
+modified_time: '2014-03-30T19:09:20.458-04:00'
+blogger_id: tag:blogger.com,1999:blog-6054545261088815023.post-4189015283408778855
+blogger_orig_url: http://allisonsherenmcmillan.blogspot.com/2014/03/x-foo.html
+---
+
+Day two started with a bang with <a href="https://twitter.com/ryanflorence">Ryan Florence</a> talking about <a href="https://github.com/rpflorence/talk-emberconf-2014" target="_blank">{{ "{{" }}x-foo}}</a>. Speaking more about components, Ryan explained components as tags with a unique style and behavior. They are custom elements with an optional template, with an isolated ember view and the view is the context.<br /><br />The most important part of this conference was obviously when Ryan pulled out the drone!!!! What’s a good conference without a drone demonstration?! So, in this case, Ryan flew the drone showing these ember components and using Ember. For example, the x-wing was a components and you can checkout the components which outlines all the actions.<br /><br />Then we moved on to getting the components to talk to the outside world. Two ways were discussed: data binding and actions. Data binding are attributes that components will 2-way bind to. Actions are the actions that the component will outline. For data binding, he used the example of <a href="https://github.com/instructure/ic-tabs#usage">ic-tabs</a>. The use case is to persist to query params. Basically, the controller sets the context of the template so that you can bind to those properties. You can see an example here: <a href="http://instructure.github.io/ic-tabs/">http://instructure.github.io/ic-tabs/</a>. Then you can find the query param attribute on the tags. For actions, he discussed ic-menu. These components allows for a solution to the popover edge cases. It outlines <code>on-select=“remove” </code> and same for save and copy. And then those are saved in the controller. You can see an example here: <a href="http://instructure.github.io/ic-menu/">http://instructure.github.io/ic-menu/</a>.<br /><br />Static tabs and dynamic tabs can both happen via parent and child components. Child components can handle their own state.<br /><br />Sub-components are identified by events or if you need to manage a more specific class or attribute.<br /><br />One interesting this that Ryan mentioned was that he is biased towards not having a template connected to a component and in his opinion, if you have a template, then you missed an opportunity for a possible abstraction in your component code.

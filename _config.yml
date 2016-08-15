@@ -3,7 +3,7 @@
 title: DayDreams in Ruby
 locale: en_US
 description: Thoughts on being a developer
-logo: site-logo.png
+logo: allison_mcmillan.jpg
 search: true
 url:
 
@@ -36,15 +36,15 @@ exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.
 
 # Site owner
 owner:
-  name: Your Name
-  avatar: bio-photo.jpg
-  email: you@email.com
+  name: Allison McMillan
+  avatar: allison_mcmillan.jpg
+  email: asheren@gmail.com
   disqus-shortname:
-  twitter: #username
+  twitter: allie_p
   facebook: #username
-  github: #username
+  github: asheren
   stackexchange: #http://stackoverflow.com/users/123456/username
-  linkedin: #username
+  linkedin: apmcmillan
   instagram: #username
   flickr: #username
   tumblr: #username

@@ -1,0 +1,15 @@
+---
+layout: post
+title: Ember Components
+date: '2014-03-30T12:23:00.003-04:00'
+author: Allison McMillan
+tags:
+- emberconf 2014
+- learning
+- ember
+modified_time: '2014-03-30T12:23:31.792-04:00'
+blogger_id: tag:blogger.com,1999:blog-6054545261088815023.post-157984925476597580
+blogger_orig_url: http://allisonsherenmcmillan.blogspot.com/2014/03/ember-components.html
+---
+
+<br />The next session was actually entitled “<a href="https://speakerdeck.com/machty/emberconf-2014-mr-router-embraces-the-controller-alex-matchneer">Ember Components</a>” (and wow, writing up these notes, I really am realizing how much components were spoken about but this talk like totally blew my mind). <a href="https://twitter.com/machty">Alex Matchneer</a> started by talking about embracing the controller. The questions he posed to us were what belongs in the router versus the controller? And what’s up with query params?<br /><br />For those who don’t know, query params is the hash of info and it looks like this <code>/?query=params</code>. So, should query params be in the router or the controller? Putting them in the router makes sense, but it leads to a bunch of issues (outlined in the slides). It was decided that query params would go into the controller, so let’s look at a controller center API. Here, sortby is a property in the controller. <code>queryParams: [‘sortBy’]</code>. Doing this means that there’s no need for custom observation, query params are bound to controller properties, and there are additional add-ins that make it easier and nicer.<br /><br />But why is this in the controller and not in the router? Well, the controller manages app state and also wraps the model with additional information for the templates. The router is in charge of navigation and is the link between URLs and controller/templates. The router serialized hierarchy into the path and the controllers serialize the app data into the query (this is practically verbatim from the slide).<br /><br />When looking at router paths, transitionTo (one used often right now) is great but only for complex hierarchical things. <br /><br />So, will a property be remembered or not? In router-driven controllers, property will live forever, but in an item/other controller, there are shorter lifecycles.<br /><br />The primitive that is missing is the model dependent state. This is a state, accessible to controllers, tied to a specific model. The store/restore controller properties are scoped to the controller’s model. This can be used for QPs, caching, indexed DBs, local storage. For example, a global cache object gets injected in a controller. The controller decides what bucket that state lives in. And then inside the cache there is a bucket for each bucket key and you are in control over bucket allocation. Ie- it could be in local storage proxy, could be a POJO (<a href="http://en.wikipedia.org/wiki/Plain_Old_Java_Object">Plain old Java object</a>), etc.<br /><br />Phew. That was a lot to explain. The slides are really excellent for this talk so definitely check them out.

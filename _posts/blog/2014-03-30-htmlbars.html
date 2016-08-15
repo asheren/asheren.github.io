@@ -1,0 +1,15 @@
+---
+layout: post
+title: HTMLBars
+date: '2014-03-30T00:40:00.001-04:00'
+author: Allison McMillan
+tags:
+- emberconf 2014
+- learning
+- ember
+modified_time: '2014-03-30T00:40:58.879-04:00'
+blogger_id: tag:blogger.com,1999:blog-6054545261088815023.post-3463358465778386738
+blogger_orig_url: http://allisonsherenmcmillan.blogspot.com/2014/03/htmlbars.html
+---
+
+And we’ve finally arrived at the last session of the day. As my brain power waned, I was excited to hear about the new things coming in <a href="http://talks.erikbryn.com/htmlbars/#/">HTMLbars</a> that will make apps faster and better. This session talked about the exciting things to come with <a href="https://twitter.com/ebryn">Erik Bryn</a> and <a href="https://twitter.com/krisselden">Kris Selden</a>.<br /><br /><a href="https://github.com/tildeio/htmlbars">HTMLbars</a> is a templating library on top of handlebars. It understands markup. In htmlbars there is no need for {{ "{{" }}bind-attr}}. It will build DOM fragments instead of strings which means no more script tags! These changes will dramatically improve the performance of large lists because htmlbars can rapidly clone DOM fragments.<br /><br />Binding update order… instead of changing all observers, it’ll update based on the parent. The presenters then showed a flame chart that shows a stack of currently executing code. They also talked about the re-render which is an anti-pattern. Instead of new re-rendering, the content will update itself instead of the entire re-render. It will have smart caching and cloning of the DOM which will enable the re-render to be much faster.<br /><br />Looking at just the DOM, there will be more of an ability to use willInsertElement because you’ll have the element that you ant to insert. And you’ll have more animation ability. For example, you’ll be able to set an animation off the screen because it’s coming up (you want to use the animation soon) and you can move it onto the screen in css transitions. There is custom rendering which then interacts with the DOM and will be secure by default. <br /><br />It’ll also be easier to step through the render path to show more of the template to the DOM path which will clear up some of the “magic” that ember usually does automatically. I’m not exactly sure what this means IRL but I’m looking forward to finding out. HTMLbars will also bake in support for server-side rendering and looking at this, they’ve focused on the SEO use case.<br /><br />Last but not least, they’re predicting a 2-3x performance improvement based on these changes.<br /><br />There isn’t a lot out there right now about HTMLbars but it looks like it’s coming soon and once it arrives, I’m sure there will be lots written about it.

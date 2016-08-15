@@ -1,0 +1,16 @@
+---
+layout: post
+title: Euler 4! Onwards and upwards!
+date: '2013-10-17T10:58:00.001-04:00'
+author: Allison McMillan
+tags:
+- euler
+- becoming a developer
+- learning
+- math
+modified_time: '2013-10-17T15:06:47.390-04:00'
+blogger_id: tag:blogger.com,1999:blog-6054545261088815023.post-6379540428495392670
+blogger_orig_url: http://allisonsherenmcmillan.blogspot.com/2013/10/euler-4-onwards-and-upwards.html
+---
+
+As I talk about doing these Project Euler problems, I increasingly realize how much they helped me crystalize certain concepts in the last few weeks. I knew they were helping me solidify some coding skills, but honestly, I wasn't sure if spending time on these was a waste of time and if I should have just continued to build things instead. One originally unseen benefit of having these problems done is being able to use them as a template to identify other things. For example, I solved my eulers by testing in rsepc and writing in ruby. The past few weeks, I've had more conversations about other testing languages including cucumber and minitest. I read about them first, but then I've searched for other people who have solved eulers and tested first using these different test suites. Because I'm familiar with the problem, I'm more easily able to identify with the example and look at how they wrote their tests.<br />Now, onto Problem 4.<br /><pre>A palindromic number reads the same both ways. The largest palindrome <br />made from the product of two 2-digit numbers is 9009 = 91 × 99.<br /><br />Find the largest palindrome made from the product of two 3-digit numbers.<br /></pre><br />First the tests:<br /><pre>require 'problem4/problem4'<br /><br /><br />describe "largest palindrome" do        <br /><br /> it "finds the largest palindrome of 2 digit numbers" do<br />   expect(Problem4.answer(10...100)).to eq 9009<br /> end<br /><br /> it "finds the largest palendrome of 3 digit numbers" do<br />   expect(Problem4.answer(100...1000)).to eq 906609<br /> end<br />end<br /></pre><br />Now for the solution code:<br /><pre>module Problem4<br /><br />def self.answer(largest_palindrome_range)<br />  max = 0<br />  (largest_palindrome_range).each do |a|<br />    (a...largest_palindrome_range.end).each do |b|<br />       product = a*b<br />    max = [max, product].max if product.to_s == product.to_s.reverse<br />    end<br />  end<br />  return max<br />end<br /><br />puts Problem4.answer(100...1000)<br />end<br /></pre><br />So, first, I thought about a palindrome. A palindrome is the reverse of itself. So, I took the range we were testing and took each number to get a and then did the same from a to the end of the range to get b. Then I multiplied all of the resulting 2 number possibilities. Finally, in order to find the maximum, you take the product, convert it to a string and then see if it equals the reverse of the string.<br /><br />This one was really tough for me. I knew about how to find the max and I knew how to check if it was a palindrome and reversing the string, but the middle section of finding the products via the range given was pretty challenging for me to wrap my head around.<br />

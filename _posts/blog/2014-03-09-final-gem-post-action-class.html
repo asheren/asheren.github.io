@@ -1,0 +1,15 @@
+---
+layout: post
+title: Final Gem Post- The Action Class
+date: '2014-03-09T12:23:00.000-04:00'
+author: Allison McMillan
+tags:
+- ruby
+- becoming a developer
+- gem
+modified_time: '2014-03-09T12:23:00.341-04:00'
+blogger_id: tag:blogger.com,1999:blog-6054545261088815023.post-7663444958053103181
+blogger_orig_url: http://allisonsherenmcmillan.blogspot.com/2014/03/final-gem-post-action-class.html
+---
+
+This is a little out of order since it's been a while since my last post on the gem I helped build, but I wanted to get it out there. Feel free to refresh your memory by re-reading these posts <a href="http://allisonsherenmcmillan.blogspot.com/2014/01/contributing-to-oss.html" target="_blank">1</a>, <a href="http://allisonsherenmcmillan.blogspot.com/2014/01/storing-cookies.html" target="_blank">2</a>, and <a href="http://allisonsherenmcmillan.blogspot.com/2014/02/getting-information.html" target="_blank">3</a>. The action class is a small, fairly simple class that is mostly used to just outline all of the attributes in an action item and then also distinguished a few method for specific attributes which are more common or may be requested more often.<br /><br />The whole class looks like this:<br /><pre>class Action<br /><br />  attr_reader :attributes<br /><br />  def initialize(params) <br />    @attributes = params<br />  end<br /><br />  def title<br />    @title = attributes['title']<br />  end<br /><br />  def description<br />    @description = attributes['description']<br />  end<br /><br />  def reference_name<br />    @reference_name = attributes['reference_name']<br />  end<br /><br />  def action_key<br />    @action_key = attributes['action_key']<br />  end<br />end<br /></pre><br />The initialize method sets up the class by just creating a hash that is the attributes hash and then the rest of the methods are just pulling out specific pieces from that hash. I’m not sure if by the end of this project, this class will be separate, but to me, it felt like it was doing different stuff than the ActionFetch class so I chose to separate it out.

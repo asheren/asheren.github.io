@@ -1,0 +1,15 @@
+---
+layout: post
+title: Ember Cli
+date: '2014-03-30T11:36:00.004-04:00'
+author: Allison McMillan
+tags:
+- emberconf 2014
+- learning
+- ember
+modified_time: '2014-03-30T11:36:58.743-04:00'
+blogger_id: tag:blogger.com,1999:blog-6054545261088815023.post-2022395114766848471
+blogger_orig_url: http://allisonsherenmcmillan.blogspot.com/2014/03/ember-cli.html
+---
+
+<br />Next up was a talk on <a href="https://github.com/stefanpenner/ember-cli">Ember-Cli</a>. Cli means command line interface. From what I understand, Ember-Cli has also had a bit of a sorted past like Ember-data but lots of work is being done to make it much better. This was another talk that primarily talked about the highlights of what’s coming. <br /><br /><a href="https://twitter.com/stefanpenner">Stef Penner</a> presented a few problems and their solutions. The first problem was coupling. The solution here is inversion of control. You have a container (which abstracts coupling) and the resolver (which finds the code for the container to use). The second problem are globals which leads to coupling based on load order. The solution here is <a href="http://www.thomasboyt.com/2013/06/21/es6-module-transpiler">es6 modules</a>. Rather than writing this glue code, the app should build that code. This leads to thinking about tooling and shipping to the browser. A third problem mentioned was build stability and the solution is a build pipeline accomplished via new tools like broccoli.<br /><br />Ember-Cli tries to solve these problems by creating a tested <a href="http://designingsocialinterfaces.com/patterns/Pave_the_Cowpaths">cow path</a> that we’re all working on together. Two highlights are that in ember-cli, you can subscribe to different releases. For example, you can subscribe to beta releases and roll back if necessary. Secondly, cli adds a yeoman-type analytics data as an option. I’m sure there’s much more coming but those are the highlights.
