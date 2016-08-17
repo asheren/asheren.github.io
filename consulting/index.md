@@ -2,7 +2,7 @@
 layout: page
 title: Consulting
 excerpt: "Consulting on topics that matter most"
-search_omit: true
+search_omit: false
 ---
 
 Companies depend on investing in their teams in order to attract and retain exellent talent. Are you creating the a strong, positive culture you desire? Are there areas of team building and education that could be better and more effective? I've worked in a variety of industries and team structures to help ensure a desireable culture. As a seasoned professional, I can help your company be at the top of it's game in any of the following areas:
