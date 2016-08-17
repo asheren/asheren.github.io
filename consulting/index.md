@@ -16,6 +16,7 @@ Companies depend on investing in their teams in order to attract and retain exel
 * Hire remote developers at any level
 * Establish a healthy remote culture
 * Establish or improve onboarding strategies and process
+* Determine and implement family friendly policies to attract and retain talent
 
 **I am available as a consultant to help your team thrive on the above and in a variety of additional subjects. Please [email me](mailto:asheren@gmail.com) for more information and rates.**
 
