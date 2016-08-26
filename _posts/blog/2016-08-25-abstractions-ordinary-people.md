@@ -11,7 +11,7 @@ tags:
 - abstractions
 ---
 
-The last session I went to before the evening keynote on the first day was [Mike Monteiro’s](https://twitter.com/monteiro){:target=“_blank"} talk entitled “Let us now praise ordinary people” (doesn’t look like slides have been posted from this talk yet). Now i’m gonna be honest, the first five minutes, I wasn’t really sure where this talk was going. To me, it seemed a little rant and a  little annoyed. The opening premise was that there are tons of resources, presentations, ideas, and talks about how to change the world. Everyone wants to change the world but you need to go deeper than that and ask how and for who?
+The last session I went to before the evening keynote on the first day was [Mike Monteiro’s](https://twitter.com/monteiro){:target="_blank"} talk entitled “Let us now praise ordinary people” (doesn’t look like slides have been posted from this talk yet). Now i’m gonna be honest, the first five minutes, I wasn’t really sure where this talk was going. To me, it seemed a little rant and a  little annoyed. The opening premise was that there are tons of resources, presentations, ideas, and talks about how to change the world. Everyone wants to change the world but you need to go deeper than that and ask how and for who?
 
 That’s when the talk actually started to get deeper. He was speaking from the perspective of a designer and saying that designers could change the world but the world isn’t changed by people who apply to do it, it’s changed by people who just want to live their ordinary lives. He also put the onus on the audience and said that we can change the world because we don’t have an option… we don’t get to opt out.
 
