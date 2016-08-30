@@ -6,6 +6,7 @@ description: Thoughts on being a developer
 logo: Allison_McMillan.jpg
 search: true
 url:
+comments: true
 
 # Jekyll configuration
 
@@ -39,7 +40,7 @@ owner:
   name: Allison McMillan
   avatar: Allison_McMillan.jpg
   email: asheren@gmail.com
-  disqus-shortname:
+  disqus-shortname: daydreamsinruby
   twitter: allie_p
   facebook: #username
   github: asheren
