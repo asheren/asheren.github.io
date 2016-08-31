@@ -33,7 +33,8 @@ You can work on multiple packages by linking them user ```npm link``` and you ca
 
 In order to keep packages up to date you can check out ```npm outdated``` and do ```npm update```, There are package config variables that you can change with the ```npm config set``` command. There are also lifecycle hooks like ```publish```, ```test```, ```start```, etc, and each of these has a ```pre``` command and a ```post``` command to allow for work flow automation and validity checks. You can put default config options in your ```.npmrc``` file. Install the Wombat cli which gives you the latest experimental stuff and allows you to manage web hooks by doing ```npm install wombat -g```. And you can use web hooks to automatically deploy.
 
-Wow. That was a lot of commends. So not for
+Wow. That was a lot of commands. So now for
+
 _npm future_
 
 Npm is now the package manager for javascript. There are some big challenges coming up related to discover and trust and es6 modules. For example, discovery is great but finding the best module for something you want to do is becoming really difficult AND people want to know if they can trust a specific package. And then security is an issue. There’s the node security project which checks a package against known vulnerabilities. Npm is also thinking about reliability via [greenkeeper.io](https://greenkeeper.io/){:target="_blank"} which check for outdates dependencies that will break things and about efficiency since the size of packages is becoming an issue.
