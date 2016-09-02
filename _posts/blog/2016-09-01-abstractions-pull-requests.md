@@ -3,6 +3,7 @@ layout: post
 title: 'Abstractions: Anatomy of a Great Pull Request'
 date: '2016-09-01'
 author: Allison McMillan
+share: true
 tags:
 - software development
 - conferences

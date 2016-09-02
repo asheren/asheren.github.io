@@ -5,8 +5,8 @@ locale: en_US
 description: Thoughts on being a developer
 logo: Allison_McMillan.jpg
 search: true
-url:
 comments: true
+share_url: 'http://daydreamsinruby.com'
 
 # Jekyll configuration
 
