@@ -41,3 +41,5 @@ Additional points for:
 - A thought-out interview process that respected a candidates time and effort
 - A diverse team
 - Support for learning and growth at all levels
+
+**If you'd like help in figuring this out, check out my [consulting page](http://daydreamsinruby.com/consulting){:target="_blank"}
