@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "So you're looking to hire?"
+title: "Github Pages and Jekyll: Getting Started"
 date: '2016-09-06'
 author: Allison McMillan
 share: true
