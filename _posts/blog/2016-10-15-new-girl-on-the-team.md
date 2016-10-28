@@ -42,11 +42,11 @@ How many questions are ok to ask? How much time should I allow to learn things? 
 the list sort of goes on.
 
 As a new person on a team, here are the things I found myself doing:
+
 1. Ask a lot of questions, but try to learn who to ask which questions to.
 This is slightly more complicated at Collective Idea because there are no managers, PMs,
 etc. Everyone works as a team, recognizes what work needs to happen where and steps
- up to do it. There, I ask technical questions to people on my project team (and sometimes outside
-of my team depending on availability). I ask company process questions to either a
+ up to do it. Therefore, I ask technical questions to people on my project team (and sometimes outside of my team depending on availability). I ask company process questions to either a
 few of the people who did my initial introductory onboarding or my 1:1 peer. And I ask
 company technical questions to learn about preferences like Rubocop, etc. in our
 general channel. By asking questions to a variety of people in a variety of places, I'm
@@ -60,7 +60,7 @@ greenfield applications, something I haven't done in years. I'm sometimes worrie
 about asking in a general room to pair so it's also been really helpful to have a handful
 of other folks in the company outside of my project ping me to offer to pair. In general though,
 pairing is encouraged and I've found myself pairing a majority of the week which
-also has helped me quickly build bonds with colleagues, especially as a remote developer.
+also helped me quickly build bonds with colleagues, especially as a remote developer.
 
 3. Get a handle on the slack channels.
 At some companies there are literally hundreds of slack channels so this can be difficult
@@ -77,7 +77,7 @@ how things work, and how people interact in order to effectively make suggestion
 or contribute new thoughts and ideas down the road.
 
 5. Get some face time.
-This tip is particular for those working remotely but if you're working remote, try
+This tip is particularly important for those working remotely but if you're working remote, try
 to get some face time in. The first week I was at Collective Idea, I mentioned in our
 daily standup, and on slack, that I would love to do get-to-know-you hangouts with
 anyone who was interested. A few people took me up on it and it was great to get to know
