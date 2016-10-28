@@ -12,8 +12,8 @@ tags:
 ---
 
 First and foremost, I am excited to officially announce that about a month ago I
-started working at [Collective Idea](http://www.collectiveidea.com). Collective
-Idea is made up of an awesome set of folks based in Michigan with a handful of
+started working at [Collective Idea](http://www.collectiveidea.com){:target="_blank"}.
+Collective Idea is made up of an awesome set of folks based in Michigan with a handful of
 us working remotely around the country. The company impressed me from the get-go
 with their interview process focused around pairing and getting to know me as an
 individual, the folks on their team that constantly highlighted the importance
@@ -30,11 +30,11 @@ first 20 minutes of my first day? What if they're disappointed in my abilities? 
 if I can't deliver what they're hoping I can? Not to mention the fact that I've never
 worked in a consultancy before so didn't really know what to expect.
 
-Well, I'm happy to say that I've been at the company for a full month now and I'm still
+Well, I'm happy to say that I've been at the company for over a month now and I'm still
 employed! I *think* I'm adding value and hope that I'm seen as a good hire. But that
  got me thinking... being new is hard! I honestly (and almost laughably) thought that
 after I had my first developer position, all other job starts would just happen
-without issue. But there are new and different concerns you have when starting
+without issue or concern. But there are new and different concerns you have when starting
 another developer position. For me, these concerns were things like, what would I
 be expected to know? How quickly should I be able to pick up new things? What is my
 role/responsibility as a more experienced developer outside of a technical capacity?
