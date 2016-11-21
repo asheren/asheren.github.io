@@ -1,0 +1,35 @@
+---
+layout: post
+title: "RubyConf 2016 writeup"
+date: '2016-11-21'
+author: Allison McMillan
+share: true
+tags:
+- software development
+- speaking
+- conferences
+- open source
+- remote work
+- computer science
+- documentation
+- servers
+---
+
+
+I was lucky enough to be a speaker this year at RubyConf 2016. You can check out my talk, “Even the Justice League Works Remotely” here on Confreaks, see the slides [here](), and the related blog post [here](). And while that was really exciting, the more important part is that I got to see old friends, make new ones, and learn a WHOLE lot. Here are some of the highlights…
+
+In [Matz]()’s [Keynote](), there were some really interesting things discussed. Matz focused on the community, talking about keeping Ruby relevant through innovation and the strength of the community. He also introduced guilds which is a new concurrency model. Every object belongs to a guild and you can transfer object between guilds. Guilds run on independent threads and every guild is parallel. This seems like an interesting idea that will continue to evolve in the near future. The other thing that was discussed are type interfaced and a new type of static analysis that will be coming that will be like structural typing with type inference… words that i’m excited to learn more about.
+
+I saw an amazing talk by [Chris Arcand]() called [Deletion Drive Development](). I made a decision a couple minutes into the talk to stop taking notes and just follow along. It was a super interesting talk about figuring out what pieces of code are no longer being used, looking at edge cases and the different pieces you need to look at in terms of looking at the Ruby parser, processing the Sexpression, etc. The slides are excellent and the talk is really good. Highly recommended.
+
+[Jeff Cohen’s](http:///www.twitter.com/jeffcohen) ’s talk on [CS-The Good Parts]() finally explained to this non-cs degree holder what a linked list is and what a binary tree is so that was pretty awesome.
+
+[Tara Scherner de la Fuente]()’s [keynote]() had some really great points. First, a top to use  Docs Doctor which is apparently now [Code Triage](https://www.codetriage.com/). My favorite part were her tips for writing… just do it, write a readme, write installation instructions or do the second draft of a thing. To make it good you want to use simple sentences, no jargon, think about the context and user, write your way to the main point and then move the main point to the top, and use specific examples.
+
+[Andre Arko]()’s talk on [Contributing to open source]() gave a very honest look at the tradeoffs to consider when working on open source projects and actually acknowledged why some people legitimately can’t spend the time contributing to open source so applause for that. The part of the talk I liked the most was the overall message that you should do the thing that has the tradeoffs you’re happy with.
+
+[Jonan]()’s [talk]() about using alexa and hal to deploy was really great. I learned a ton of new concepts and it was a lot of fun to watch. I also want to do a shout out to [Brandon]()’s [talk]() about becoming a senior developer was also really good. He spoke about 12 traits of senior developers and different levels that folks will be at **for that specific characteristic** when they’re junior, mid, senior, or beyond.
+
+Lastly, the talk I think I took the most notes at was [Stella]()’s talk about [servers](). This is actually something that has come up recently and an area I wanted to level up in so it was perfect. She talked about sockets, listening for requests, handling requests, and closing a socket. There was great information about stream sockets and datagram sockets, stepping through how a server works and common problems or issues.
+
+All in all, as usual, RubyConf was a great time and I continue to love how friendly, welcoming, and nice our community continues to be.
