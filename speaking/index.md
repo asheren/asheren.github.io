@@ -13,7 +13,7 @@ Some topics I speak about include:
 
 * Mentorship
 
-* [Setting up and running successful remote teams](confreaks.tv/videos/rubyconf2016-even-the-justice-league-works-remotely)
+* [Setting up and running successful remote teams](http://confreaks.tv/videos/rubyconf2016-even-the-justice-league-works-remotely)
 
 * [Parent/developer empathy](http://confreaks.tv/videos/roa2016-bdd-baby-driven-development)
 
