@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Search"
-date: 
+date:
 modified:
 excerpt:
 image:
@@ -9,23 +9,25 @@ image:
 search_omit: true
 sitemap: false
 ---
-  
-<!-- Search form -->
-<form method="get" action="{{ site.url }}/search/" data-search-form class="simple-search">
-  <label for="q">Search {{ site.title }} for:</label>
-  <input type="search" name="q" id="q" placeholder="What are you looking for?" data-search-input id="goog-wm-qt" autofocus />
-  <input type="submit" value="Search" id="goog-wm-sb" />
-</form>
 
-<!-- Search results placeholder -->
-<h6 data-search-found>
-  <span data-search-found-count></span> result(s) found for &ldquo;<span data-search-found-term></span>&rdquo;.
-</h6>
-<ul class="post-list" data-search-results></ul>
 
-<!-- Search result template -->
-<script type="text/x-template" id="search-result">
-  <li><article>
-    <a href="##Url##">##Title## <span class="excerpt">##Excerpt##</span></a>
-  </article></li>
+<!-- <div id="search">
+  <form role="search" method="get" action="{{ site.url }}/search/" data-search-form class="simple-search">
+    <input type="search" name="searchString" placeholder="What are you looking for?" type="text" data-search-input id="goog-wm-qt">
+    <input id="goog-wm-sb" type="submit" value="Search">
+  </form>
+</div> -->
+<script>
+  (function() {
+    var cx = '013549399218162838596:9_ziz0a8fgg';
+    var gcse = document.createElement('script');
+    gcse.type = 'text/javascript';
+    gcse.async = true;
+    gcse.src = 'https://cse.google.com/cse.js?cx=' + cx;
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(gcse, s);
+  })();
 </script>
+<gcse:search></gcse:search>
+
+
