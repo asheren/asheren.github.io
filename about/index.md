@@ -4,7 +4,7 @@ title: About Me
 excerpt: "Just a developer looking to explore"
 ---
 
-Hi. I'm a software engineer at [Collective Idea](http://collectiveidea.com/)with a few careers in my past. I've been a startup founder, community builder at the University of Michigan, and Managing Director of a national non-profit. I started programming at a Rail Girls workshop a few years ago and am now a chapter organizer. I speak at conferences on a variety of topics including mentorship, working remotely, and being a parent and a developer. When I'm not coding, you can find me encouraging my toddler's climbing skills or pretending I have time to bake. I live in the Washington, DC area and help co-organize [United Silver Spring Ruby](http://www.meetup.com/United-Silver-Spring-Ruby/).
+Hi. I'm a software engineer at [Collective Idea](http://collectiveidea.com/){:target="_blank"} with a few careers in my past. I've been a startup founder, community builder at the University of Michigan, and Managing Director of a national non-profit. I started programming at a Rail Girls workshop a few years ago and am now a chapter organizer. I speak at conferences on a variety of topics including mentorship, working remotely, and being a parent and a developer. When I'm not coding, you can find me encouraging my toddler's climbing skills or pretending I have time to bake. I live in the Washington, DC area and help co-organize [United Silver Spring Ruby](http://www.meetup.com/United-Silver-Spring-Ruby/){:target="_blank"}.
 
 I am also available for consulting on various topics. Check out more [here](http://daydreamsinruby.com/consulting).
 

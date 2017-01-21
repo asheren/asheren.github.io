@@ -13,9 +13,9 @@ Some topics I speak about include:
 
 * Mentorship
 
-* [Setting up and running successful remote teams](http://confreaks.tv/videos/rubyconf2016-even-the-justice-league-works-remotely)
+* [Setting up and running successful remote teams](http://confreaks.tv/videos/rubyconf2016-even-the-justice-league-works-remotely){:target="_blank"}
 
-* [Parent/developer empathy](http://confreaks.tv/videos/roa2016-bdd-baby-driven-development)
+* [Parent/developer empathy](http://confreaks.tv/videos/roa2016-bdd-baby-driven-development){:target="_blank"}
 
 * Getting involved in the community
 
@@ -23,5 +23,5 @@ Some topics I speak about include:
 
 * What next (when you're a new developer)
 
-Please check out previous slide decks on my [SpeakerDeck](https://speakerdeck.com/asheren) profile.
+Please check out previous slide decks on my [SpeakerDeck](https://speakerdeck.com/asheren){:target="_blank"} profile.
 
