@@ -39,10 +39,9 @@
   @extend .btn;
 }
 
-input.gsc-search-button input.gsc-search-button-v2 {
-  width: 28px !important;
-  height: 26px !important;
-  padding: 4px !important;
-  min-width: 13px !important;
-  margin-top: 0 !important;
+.cse .gsc-search-button input.gsc-search-button-v2,
+  input.gsc-search-button-v2 {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: content-box;
+  box-sizing: content-box;
 }
