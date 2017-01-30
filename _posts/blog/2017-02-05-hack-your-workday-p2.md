@@ -49,3 +49,5 @@ Here are some examples based on the example goals from the last post:
   - Read at least 5 more PRs every week than I currently am
   - Make comments on at least half of the PRs I read
   - Determine what constructive feedback looks like via asking teammates, reading blog posts, etc.
+
+Finally, show these new, beautiful, wonderful goals to a few people. You need some allies to help keep you accountable and motivated. Show these learning goals to a friend, a manager, a peer, etc. and ask if they'd be okay with you checking in with them about it every ince in a while.
