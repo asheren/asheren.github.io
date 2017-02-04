@@ -14,11 +14,9 @@ tags:
 - remote work
 ---
 
-TODO: Add idea sites
-
 Retrospectives are an important part of any engineering culture. Whether your team is actively working on sprints and iterations or just periodically using the time to check-in, allowing teams to have set times where they look back and reflect is vital for team healthy and employee morale. One of the things I like most about retrospectives is that there are a variety of methodologies and ways you can run them. For example, if you are a small team of developers mostly working on individual projects, you can run retros together to reflect on individual challenges of your project and incorporate that into thoughts and reflections on the team culture as a whole. Or if your team is large enough, you can run regular retrospectives just with your immediate team.
 
-There are also literally hundreds of different methodologies and ways to run retrospectives. I suggest rotating who leads them (which also provides a valuable training opportunity), and, if possible, allow whoever is running the retrospective to pick what methodology is used. Often times I think teams will find a methodology that works for them and that will be chosen regardless of who's running it, but it's nice to allow for the option to "mix it up" a little bit. My favorite sites for retrospective ideas are: ENTER SITES HERE
+There are also literally hundreds of different methodologies and ways to run retrospectives. I suggest rotating who leads them (which also provides a valuable training opportunity), and, if possible, allow whoever is running the retrospective to pick what methodology is used. Often times I think teams will find a methodology that works for them and that will be chosen regardless of who's running it, but it's nice to allow for the option to "mix it up" a little bit. My two favorite sites for retrospective ideas are [here](http://www.funretrospectives.com/) and [here](http://tastycupcakes.org/).
 
 Finally, think about how to make retrospectives remote-friendly. For example, use google docs or trello boards, use collaborative whiteboards, have everyone log in from their own computer, etc. Just because a methodology is presented with post-it notes or isn't a remote-friendly format, doesn't mean you can't change it to be so.
 
