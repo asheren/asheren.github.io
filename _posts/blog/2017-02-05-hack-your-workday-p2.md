@@ -12,7 +12,7 @@ tags:
 - time maximization
 ---
 
-You've got your goals! You've put some hard work into thinking them through and making sure they align with how much time you have and what you want to learn. So what now? Well, we're still in the planning and prep phase, but trust me it'll pay off once you start working.
+[You've got your goals](http://daydreamsinruby.com/hack-your-workday-p1/)! You've put some hard work into thinking them through and making sure they align with how much time you have and what you want to learn. So what now? Well, we're still in the planning and prep phase, but trust me it'll pay off once you start working.
 
 The next step is to add action steps to each of your goals. You've got broad goals identified and a timeframe in which to complete them. This next step is all about identifying how you will measure success and what you need to do in order to be successful. I usually do this by just adding a few bullet points below each goal outlining the action items. Think through the following questions:
 
