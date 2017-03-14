@@ -51,3 +51,5 @@ Here are some examples based on the example goals from the last post:
   - Determine what constructive feedback looks like via asking teammates, reading blog posts, etc.
 
 Finally, show these new, beautiful, wonderful goals to a few people. You need some allies to help keep you accountable and motivated. Show these learning goals to a friend, a manager, a peer, etc. and ask if they'd be okay with you checking in with them about it every ince in a while.
+
+Read [Part 1](http://daydreamsinruby.com/hack-your-workday-p1/) and [part 3](http://daydreamsinruby.com/hack-your-workday-p3/)

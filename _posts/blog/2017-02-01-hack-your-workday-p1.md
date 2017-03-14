@@ -36,3 +36,5 @@ Okay, so here are some examples, without the additional action items which we'll
 - Give constructive feedback
 
 Try writing a few yourself and see how it goes.
+
+Read [Part 2](http://daydreamsinruby.com/hack-your-workday-p2/) and [part 3](http://daydreamsinruby.com/hack-your-workday-p3/)
