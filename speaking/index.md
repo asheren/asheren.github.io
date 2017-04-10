@@ -5,7 +5,7 @@ excerpt: "Prior Speaking Engagements"
 search_omit: false
 ---
 
-I am an accomplished, engaging speaking who has spoken at dozens of local, national, and international conferences.
+I am an accomplished, engaging speaker who has spoken at dozens of local, national, and international conferences.
 
 Some topics I speak about include:
 
