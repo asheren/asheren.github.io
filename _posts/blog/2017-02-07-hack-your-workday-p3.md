@@ -22,4 +22,6 @@ Lastly, think about what additional resources you can use as time-fillers and tr
 
 In summary, you can incorporate all this learning and complete your goals within the confines of your workday if you stay focused and creative.
 
+Read [Part 1](http://daydreamsinruby.com/hack-your-workday-p1/), [Part 2](http://daydreamsinruby.com/hack-your-workday-p2/), and [Part 4](http://daydreamsinruby.com/hack-your-workday-p4/)
+
 In Part 4, you'll learn how to assess if you're achieving the goals you've set and how to make time, without making time, to figure out what you've accomplished and naturally determine what your next goals may include.
