@@ -37,4 +37,4 @@ Okay, so here are some examples, without the additional action items which we'll
 
 Try writing a few yourself and see how it goes.
 
-Read [Part 2](http://daydreamsinruby.com/hack-your-workday-p2/) and [part 3](http://daydreamsinruby.com/hack-your-workday-p3/)
+Read [Part 2](http://daydreamsinruby.com/hack-your-workday-p2/), [Part 3](http://daydreamsinruby.com/hack-your-workday-p3/), and [Part 4](http://daydreamsinruby.com/hack-your-workday-p4/)
