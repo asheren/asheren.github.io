@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Leadership Workshop: Values in Stickers"
-date: '2017-01-16'
+date: '2017-03-16'
 author: Allison McMillan
 share: true
 tags:
