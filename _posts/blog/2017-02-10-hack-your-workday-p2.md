@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Hack your Workday, Part 2"
-date: '2017-02-05'
+date: '2017-02-10'
 author: Allison McMillan
 share: true
 tags:
