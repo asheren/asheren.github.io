@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Workshops for Engineer, Part 1"
+title: "Workshops for Engineers, Part 1"
 date: '2017-04-29'
 author: Allison McMillan
 share: true
