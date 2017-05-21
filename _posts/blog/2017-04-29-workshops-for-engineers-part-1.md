@@ -32,4 +32,6 @@ The trigger comes next. The trigger is what kicks off and gets people thinking. 
 
 Stay tuned for the post on what's involved in the discussion, conclusion, supporting materials, and materials needed.
 
+[Part 2](http://daydreamsinruby.com/workshops-for-engineers-part-2/)
+
 Be on the lookout for examples of workshops like this in the future!
