@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Workshops for Engineer, Part 2"
-date: '2017-02-15'
+date: '2017-05-15'
 author: Allison McMillan
 share: true
 tags:
