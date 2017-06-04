@@ -27,6 +27,6 @@ A few tips for facilitators:
 
 4. Keep the discussion on topic but let it flow. This one is tricky, but if you have a list of questions you want to ask as a part of the discussion, don't ask them as a list. It's weird and makes things feel more like a quiz than a flowing conversation. Keep many of the questions in mind and try to bring up questions naturally as the discussion sort of organically leads to them. Don't worry if you're not good at this right away... this is really tricky to do and takes some practice.
 
-Stay tuned for the post on what's involved in the conclusion, supporting materials, and materials needed.
+[Part 3](http://daydreamsinruby.com/workshops-for-engineers-part-3/)
 
 Be on the lookout for examples of workshops like this in the future!
