@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Workshops for Engineer, Part 3"
-date: '2017-02-15'
+date: '2017-06-04'
 author: Allison McMillan
 share: true
 tags:
@@ -13,7 +13,7 @@ tags:
 - leadership development
 ---
 
-In [part 1](), we learned about the formula for writing a workshop and went through how to craft the goals and trigger. Then, in [part two](), we covered the discussion, both how to facilitate and create effective questions. For the last installment of workshops for engineers, we’ll figure out how to bring it all together looking at the conclusion, supporting materials, and materials needed.
+In [part 1](http://daydreamsinruby.com/workshops-for-engineers-part-1/), we learned about the formula for writing a workshop and went through how to craft the goals and trigger. Then, in [part two](http://daydreamsinruby.com/workshops-for-engineers-part-2/), we covered the discussion, both how to facilitate and create effective questions. For the last installment of workshops for engineers, we’ll figure out how to bring it all together looking at the conclusion, supporting materials, and materials needed.
 
 The conclusion is how you bring it all together. When you run a great workshop, you need to “close” it in a thoughtful way. A conclusion can be a thoughtful statement, a call to action, or a final thought from the group as a way to conclude. One example is having everyone go around and say one thing they learned about themselves during the course of the activity. Another example is having folks write on an index card their next step and keep it with them. Conclusion statements or activities are generally pretty short… under five minutes.
 
