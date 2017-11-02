@@ -11,6 +11,7 @@ tags:
 - leveling up
 - interactive engagement
 - leadership development
+- workshop
 ---
 
 In [part 1](http://daydreamsinruby.com/workshops-for-engineers-part-1/), we learned about the formula for writing a workshop and went through how to craft the goals and trigger. Then, in [part two](http://daydreamsinruby.com/workshops-for-engineers-part-2/), we covered the discussion, both how to facilitate and create effective questions. For the last installment of workshops for engineers, we’ll figure out how to bring it all together looking at the conclusion, supporting materials, and materials needed.

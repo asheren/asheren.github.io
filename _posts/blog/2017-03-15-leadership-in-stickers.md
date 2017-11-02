@@ -9,6 +9,7 @@ tags:
 - professional development
 - learning
 - soft skills
+- workshop
 ---
 
 **Leadership Development**

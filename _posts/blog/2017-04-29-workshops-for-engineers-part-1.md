@@ -11,6 +11,7 @@ tags:
 - leveling up
 - interactive engagement
 - leadership development
+- workshop
 ---
 
 Most people I meet want their team to always be learning and growing. Whether you're a manager of a team, tech lead, or just a colleague, leveling up is important. There are LOTS of bad, boring training workshops. Seminars where you sit and listen, where you stare at a slidedeck and check your watch and wonder what you should be learning from this. This is usually what people think of when they think of leadership training or professional development. But this is so far from what it could be. Enter [Experiential Education](https://en.wikipedia.org/wiki/Experiential_education). Experiential education focuses on creating an experience in order to help participants process and think critically about the goal of the activity. These can be immersion experiences like alternative spring break trips, habitat for humanity house building, educational experiences domestic or abroad, leadership training days, company retreats, or even just the one-off workshop. These workshops are engaging, interactive, and make a much larger impact on the people participating. It seems as though this is something only professionals can do, but it's not! With some thought and understanding, anyone can put together these sorts of activities. This is a three-part series that will walk you through running a workshop.

@@ -11,6 +11,7 @@ tags:
 - leveling up
 - interactive engagement
 - leadership development
+- workshop
 ---
 
 In [part one](http://daydreamsinruby.com/workshops-for-engineers-part-1/) of this how-to workshop for engineers, we look at developing goals and the trigger for your event. Those were foundational pieces to get your participants focused on the learning they're doing and engaged. Hopefully through your trigger you've set the scene and they've gone through some sort of activity. They've had fun or thought critically about themselves or both! Next comes the discussion.
