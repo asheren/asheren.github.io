@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Angelina Ballerina Learns about Memory Allocation Resources"
-date: '2017-06-22'
+date: '2017-09-22'
 author: Allison McMillan
 share: true
 tags:
