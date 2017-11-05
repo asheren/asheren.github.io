@@ -22,8 +22,12 @@ The days where I'm not confident, the opposite happens. I'm hesitant to pick up 
 
 The right pair or right sentence can lift me out of a funk and into a better place but I don't want to have to depend on others to do this.
 
+![confidence quote]({{ site.url }}/images/confidence.jpg)
+
 Every year I set goals for myself and every quarter I revisit them. This quarter (and for the next 6 months), I decided that working on my code confidence, or my ability to stay in this confident, more positive mindset for more days or more hours at a time. There are a variety of action steps I've outlined for myself to make progress on this goal but step one is how do I even track this?! I'm curious to learn id there are trends related to when I feel more or less confident. Is it when I get good code reviews from folks on my team? Or does a more difficult review make a difference? Is there a difference between Mondays and Fridays? Do I have confident streaks and then streaks of not feeling confident? Do both trends last the same amount of time? What questions should I be asking myself about this covering some sort of survey or scale on this topic? Does my assessment of the difficulty of tasks I'm working on make a difference? Should that even be noted?
 
 An easy way to track this is to just be able to mark down a happy face or a frown face (or red days and green days) and then go from there, but maybe there are more questions that I'm not thinking about. And if it's just a happy face or frown face, there isn't much context or ability to determine patterns or trends related to it. This is going to be subjective and that's ok. This is really just an experiment for me to think about me, which is why I also want it to be EASY.
 
 Does an app like this exist? Is anyone else doing anything like this? The best way to solve a problem is to know as much about it as possible and so that's what I'm trying to do.
+
+
