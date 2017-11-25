@@ -11,7 +11,7 @@ tags:
 - parenting
 ---
 
-I travel with my son solo a fair amount. In fact, he's now only 2 and a half but has already been to five tech conferences with me, many of those with the two of us traveling solo. One of the things I learned very early on was how to VERY quickly and VERY easily childprood a hotel room. This became even more important once my son was sleeping in a bed (he started climbing out a crib/pack and play at about 18 months so our bed transition came pretty early), but even before that, he would be into everything before I could even close the hotel room door. Here are my tips of how to childproof a hotel room.
+I travel with my son solo a fair amount. In fact, he's now only 2 and a half but has already been to five tech conferences with me, many of those with the two of us traveling solo. One of the things I learned very early on was how to VERY quickly and VERY easily childproof a hotel room. This became even more important once my son was sleeping in a bed (he started climbing out a crib/pack and play at about 18 months so our bed transition came pretty early), but even before that, he would be into everything before I could even close the hotel room door. Here are my tips of how to childproof a hotel room.
 
 1. Find the room safe. This will keep your child occupied while you childproof the rest of the room.
 2. Stuff pillows in between the bed and the nightstand. Most hotels have a rectangular or square nightstand in between the two beds (or next to the one bed if you're still using a crib). There is usually a small gap and sharp corners, but shoving a pillow in there will keep you child from getting caught and from bumping into the corners.
