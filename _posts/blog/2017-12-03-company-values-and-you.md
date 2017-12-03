@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Leadership Workshop: Company Values and You"
-date: '2017-05-06'
+date: '2017-12-03'
 author: Allison McMillan
 share: true
 tags:
