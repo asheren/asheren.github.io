@@ -19,4 +19,4 @@ Since I've spoken more publicly about my triumphs and struggles related to being
 
 Stay tuned for updates as we get our website up and plan for the release of our first episode.
 
-If you or your company is interested in sponsoring or contributing to this project, please let me know by [emailing me]((mailto:admin@parentdrivendevelopment.com).
+If you or your company is interested in sponsoring or contributing to this project, please let me know by [emailing me](mailto:admin@parentdrivendevelopment.com).
