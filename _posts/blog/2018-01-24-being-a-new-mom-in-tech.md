@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Being a new mom in tech"
-date: '2017-12-04'
+date: '2018-01-24'
 author: Allison McMillan
 share: true
 tags:
