@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Planning a Team Gathering"
-date: '2017-12-06'
+date: '2018-02-06'
 author: Allison McMillan
 share: true
 tags:
