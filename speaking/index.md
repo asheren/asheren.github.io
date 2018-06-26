@@ -5,7 +5,7 @@ excerpt: "Prior Speaking Engagements"
 search_omit: false
 ---
 
-I am an international speaker available to keynote at conferences.
+I am an experienced, internationally recognized speaker. Contact me [here](mailto:asheren@gmail.com) to ask me to keynote or speak at your conference.
 
 **Previously given talks:**
 
@@ -32,5 +32,5 @@ I am an international speaker available to keynote at conferences.
 
 * A Career Changer's Developer Journey
 
-Please check out previous slide decks on my [SpeakerDeck](https://speakerdeck.com/asheren){:target="_blank"} profile and contact me at [email me](mailto:asheren@gmail.com).
+Please check out previous slide decks on my [SpeakerDeck](https://speakerdeck.com/asheren){:target="_blank"} profile. I love speaking at conferences on both technical and non-technical topics. You can contact me [here](mailto:asheren@gmail.com).
 
