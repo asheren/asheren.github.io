@@ -40,7 +40,7 @@ This one I found at the library... the [Berenstein Bears Tooth Fairy book](https
 
 [I Just Forgot](https://www.amazon.com/Just-Forgot-Little-Critter-Book/dp/0307119750/ref=sr_1_1?s=books&ie=UTF8&qid=1530065412&sr=1-1&keywords=I+just+forgot) is another one from my childhood but honestly, I find it infuriating to read. It's basically about a toddler who either forgets or doesn't forget but just does what he wants. So sometimes he's like, oh, I just forgot to do this and it made a big mess. Other times he's like, I didn't forget, I just don't like doing that. Tell me, why would I want to read that to my son? All he'd do is get ideas.
 
-![I Just Forgot]({{ site.url }}/images/forogt.jpg)
+![I Just Forgot]({{ site.url }}/images/forgot.jpg)
 
 [Sam and the Firefly](https://www.amazon.com/Sam-Firefly-P-D-Eastman/dp/0394800060/ref=sr_1_1?s=books&ie=UTF8&qid=1530065430&sr=1-1&keywords=sam+the+firefly) is a dangerous asshole who causes all sorts of issues by writing incorrect and misleading directions in the sky. And then, when he's caught, we're supposed to feel bad for him! I just don't.
 
