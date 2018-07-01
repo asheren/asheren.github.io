@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Books I Read My Kids"
-date: '2018-06-18'
+date: '2018-06-26'
 author: Allison McMillan
 share: true
 tags:
