@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Deploying to Heroku with Rails 5 or Why the secrets.yml file causes trouble"
-date: '2018-01-05'
+date: '2018-07-22'
 author: Allison McMillan
 share: true
 tags:
