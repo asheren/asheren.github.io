@@ -15,5 +15,6 @@ Parents are also exploring additional technical issues like "screen time" or int
 
 We cover all of these topics and more using a panel of parents coming from diverse perspectives and a variety of technological backgrounds. We'll shine light onto these issues and provide a valuable food for thought for these folks.
 
-[Learn more about how the podcast got started](http://daydreamsinruby.com/parent-driven-development-launch/).
-Check out the podcast at [Parent Driven Development](https://www.parentdrivendevelopment.com/)
+[Learn more about how the podcast got started](http://daydreamsinruby.com/parent-driven-development-launch/).    
+
+Check out the podcast at [Parent Driven Development](https://www.parentdrivendevelopment.com/).
