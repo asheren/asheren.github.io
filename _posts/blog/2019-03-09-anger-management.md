@@ -38,7 +38,7 @@ There was more talked about in the workshop. Some other topics included physical
 
 While I was skeptical upon leaving the class, I've actually been working really hard to put these practices in place both at work and at home. The instructors told us we'd just need to keep practicing until these reactions, responses, and mind-shift became second nature. I still need to actively think and keep repeating to myself the lessons I learned but I've been pleasantly surprised at how different our household feels, even just a few weeks afterwards.
 
-Supplemental Links:
-[PEP, Parent Encouragement Program](http://pepparent.org/)
-[Feelings List](https://www.cnvc.org/training/resource/feelings-inventory)
-[Emotional API](https://emotionalapi.com/)
+Supplemental Links:  
+[PEP, Parent Encouragement Program](http://pepparent.org/)  
+[Feelings List](https://www.cnvc.org/training/resource/feelings-inventory)  
+[Emotional API](https://emotionalapi.com/)  
