@@ -3,7 +3,7 @@
 title: DayDreams in Ruby
 locale: en_US
 description: Thoughts on being a developer
-logo: allison-cropped2.jpeg
+logo: allison-cropped3.jpeg
 search: true
 comments: true
 share_url: 'http://daydreamsinruby.com'
@@ -38,7 +38,7 @@ exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.
 # Site owner
 owner:
   name: Allison McMillan
-  avatar: allison-cropped2.jpeg
+  avatar: allison-cropped3.jpeg
   email: asheren@gmail.com
   disqus-shortname: daydreamsinruby
   twitter: allie_p
