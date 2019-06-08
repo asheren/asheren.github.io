@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "How to brainstorm conferene talk topics"
-date: '2018-01-25'
+title: "How to brainstorm conference talk topics"
+date: '2019-06-08'
 author: Allison McMillan
 share: true
 tags:
