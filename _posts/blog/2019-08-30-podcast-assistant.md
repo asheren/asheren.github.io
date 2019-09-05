@@ -48,9 +48,9 @@ Our panel and guests are distributed worldwide which means a lot of our communic
 - Experience with outreach and establishing external partnerships
 - Remote work experience
 
-**Hours:** 10-15 hours per week  
+**Hours:** 7-12 hours per week  
 **Compensation:** Commensurate with experience
 
 ## To Apply
 
-Please send a cover letter and resume to Allison at admin@parentdrivendevelopment.com
+Please send a cover letter and resume to Allison at admin@parentdrivendevelopment.com with "Podcast Assistant" as the subject.
