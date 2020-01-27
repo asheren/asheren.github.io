@@ -44,3 +44,6 @@ Check out [episodes](https://www.parentdrivendevelopment.com/episodes)
 Support us on [Patreon](https://www.patreon.com/parentdrivendev?fbclid=IwAR17UydYd8o1kUImjtPn_Iv2NFw7N7KAYPXIsPuu_uEnDZqaEBGn6aKPz04)
 
 Contact us if you're interested in [sponsorships](https://www.parentdrivendevelopment.com/contact)
+
+Twitter: https://twitter.com/parentdrivendev
+Instagram: https://www.instagram.com/parentdrivendev/
