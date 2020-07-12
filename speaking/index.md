@@ -5,7 +5,7 @@ excerpt: "Prior Speaking Engagements"
 search_omit: false
 ---
 
-I am an experienced, internationally recognized speaker. Contact me [here](mailto:asheren@gmail.com) to ask me to keynote or speak at your conference.
+I am an experienced, internationally recognized keynote speaker. Contact me [here](mailto:asheren@gmail.com) to ask me to keynote or speak at your conference.
 
 **Previously given talks:**
 
@@ -20,6 +20,8 @@ I am an experienced, internationally recognized speaker. Contact me [here](mailt
 
 * [Baby Driven Development](http://confreaks.tv/videos/rubyconf2018-bdd-baby-driven-development){:target="_blank"}
 
+* [Live-demo'ed the launch of Codespaces](https://youtu.be/L618Pp0n7us?t=947)
+
 * [Hack Your Workday](https://www.youtube.com/watch?v=T0zL4xrnAhU&list=PLMdKdUWTtMY_yZCeVaTG4zG0jpPFzjIrI&t=4s&index=11){:target="_blank"}
 
 * [Even the Justice League Works Remotely](http://confreaks.tv/videos/rubyconf2016-even-the-justice-league-works-remotely){:target="_blank"}
@@ -27,8 +29,6 @@ I am an experienced, internationally recognized speaker. Contact me [here](mailt
 * [Experiential Workshops for Engineers](https://www.youtube.com/watch?v=FI-WvXYCmIM&index=7&t=2s&list=PLBzScQzZ83I8aBUZtZXNWZkWKEgWRffH6){:target="_blank"}
 
 * Making Mentorship Work
-
-* Getting Involved in the Community
 
 * A Career Changer's Developer Journey
 
