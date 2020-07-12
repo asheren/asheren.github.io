@@ -37,7 +37,7 @@ There is SO MUCH MORE we could do once we're breaking even and maybe even a tiny
 
 **3. Increase listener numbers**   
 
-We haven't done badly. I'm proud of the number of listeners I have and consistent downloads but our numbers could be better. Anf the more listeners, the more likely we'll be able to reach some of our other goals, get listener questions, and be able to move beyond, what feels like, the "starter" stage. We're doing more with social media. We're also engaging with different content and brands that we love and who hopefully love us. We're hoping that by reaching out and providing more content, conversation starters, and additional touchpoints, we'll get more listeners, subscribers, and people passing along Parent Driven Development to their friends.
+We haven't done badly. I'm proud of the number of listeners I have and consistent downloads but our numbers could be better. And the more listeners, the more likely we'll be able to reach some of our other goals, get listener questions, and be able to move beyond, what feels like, the "starter" stage. We're doing more with social media. We're also engaging with different content and brands that we love and who hopefully love us. We're hoping that by reaching out and providing more content, conversation starters, and additional touchpoints, we'll get more listeners, subscribers, and people passing along Parent Driven Development to their friends.
 
 Check out [episodes](https://www.parentdrivendevelopment.com/episodes)
 
