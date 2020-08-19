@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Virtual Conferences: It's now a thing"
-date: '2020-08-17'
+date: '2020-08-18'
 author: Allison McMillan
 share: true
 tags:
