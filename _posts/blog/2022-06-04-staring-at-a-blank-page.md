@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Staring at a blank page"
-date: '2022-04-18'
+date: '2022-06-04'
 author: Allison McMillan
 share: true
 tags:
@@ -21,7 +21,7 @@ I'd sit there, thinking about the conference proposals I should be submitting, t
 
 But here's the truth of it... I was getting things done, but what I needed to get done was different. What I did (and still) get done revolves around numbers, exposure, vaccination rates, and risk/benefit calculations. Making sure that I and my family need to be happy and healthy.
 
-And also, I miss it. I miss putting out posts that are hopefully helpful to others. I miss speaking at conferences (or even just attending conferences and catching up with people I used to see regularly!!!). So i'm trying again. I might not succeed. I might not be able to stick with it. But i've reserved 1 hour every saturday morning to sit outside at a coffee truck and write. 
+And also, I miss it. I miss putting out posts that are hopefully helpful to others. I miss speaking at conferences (or even just attending conferences and catching up with people I used to see regularly!!!). So I'm trying again. I might not succeed. I might not be able to stick with it. But i've reserved 1 hour every saturday morning to sit outside at a coffee truck and write. 
 
 Or stare at a blank page for an hour but remind myself that it is ok because i'm building the habit again, and i'm making the time and space for good stuff to happen. Which is the most important part.
 
