@@ -4,7 +4,7 @@ excerpt: "Consulting on topics that matter most"
 search_omit: false
 ---
 
-![tavlin consulting logo]({{ site.url }}/images/logo-tavlin-website.png){ style="display: block; margin: 0 auto" }
+![tavlin consulting logo]({{ site.url }}/images/logo-tavlin-website.png)
 
 As an Engineering leadership consultancy, we provide strategic guidance, mentorship, and support to help you achieve your goals and objectives. 
 
