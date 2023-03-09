@@ -10,7 +10,7 @@ As an Engineering leadership consultancy, we provide strategic guidance, mentors
 
 We understand the unique challenges faced by today's engineering leaders. Building high-performing, well-managed, and happy teams is critical to achieving business success. In fact, teams that perform at a high level are more likely to achieve their goals and objectives, deliver better results, and maintain higher levels of engagement and retention leading to less turnover and higher productivity rates.
 
-We customized solutions to help you navigate these challenges, optimize your team's performance, and create a culture of excellence.
+We customize solutions to help you navigate these challenges, optimize your team's performance, and create a culture of excellence.
  
 We help Engineering Leaders achieve these goals through 3 types of services:
 <br>
