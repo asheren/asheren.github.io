@@ -5,17 +5,24 @@ excerpt: "Consulting on topics that matter most"
 search_omit: false
 ---
 
-Companies depend on investing in their teams in order to attract and retain excellent talent. Are you creating the strong, positive culture you desire? Are there areas of team building and education that could be better and more effective? I've worked in a variety of industries and team structures to help ensure a desirable culture. As a seasoned professional, I can help your company be at the top of it's game in any of the following areas:
+![tavlin consulting logo]({{ site.url }}/images/logo-tavlin-website.png)
 
-* Establish or improve internal mentorship programs
-* Develop learning plans and goals for individual teammates at any level
-* Learn how to facilitate effective individual goal setting
-* Assist individuals from junior to engineering manager examine career goals and career trajectory
-* Establish a culture of helpfulness and learning amongst a team
-* Plan and Implement effective in-person gatherings
-* Hire remote developers at any level
-* Establish a healthy remote culture
-* Establish or improve onboarding strategies and process
-* Determine and implement family friendly policies to attract and retain talent
+As an Engineering leadership consultancy, we provide strategic guidance, mentorship, and support to help you achieve your goals and objectives. 
 
-**I am available as a consultant to help your team thrive on the above and in a variety of additional subjects. Please [email me](mailto:asheren@gmail.com) for more information and rates.**
+We understand the unique challenges faced by today's engineering leaders. Building high-performing, well-managed, and happy teams is critical to achieving business success. In fact, teams that perform at a high level are more likely to achieve their goals and objectives, deliver better results, and maintain higher levels of engagement and retention leading to less turnover and higher productivity rates.
+
+We customized solutions to help you navigate these challenges, optimize your team's performance, and create a culture of excellence.
+ 
+We help Engineering Leaders achieve these goals through 3 types of services:
+* <h3> Part-time or interim VP of Engineering engagements
+
+> You may not have the need or budget for a full-time VP of Engineering but you need someone with experience and expertise working collaboratively with both your engineering team and your leadership team to get to success. Bringing in a fractional VP of Engineering can lead to a faster time to market, a increase in engineering team productivity, and a reduction in engineering costs while also driving higher levels of employee satisfaction and retention. Solve those problems and set your company up for a better VP of Engineering or CTO hire when you're ready.
+
+* <h3>Virtual or in-person offsite planning
+> Team, department, and company offsites are EXPENSIVE, not just to execute them but also the cost of taking people away from their day-to-day work for multiple days. It's critical to find a balance between business goals and employee retention activities. You need to ensure that the offsite is engaging and memorable (which doesn't have to mean expensive) from beginning to end. Employees that have strong workplace friendships feel more engaged and satisfied at work. Our team offsite planning services are designed to help you build stronger relationships, enhance communication, and foster a culture of collaboration and innovation. We'll work with you to plan a customized offsite that meets your unique needs and goals and that YOU can confidently execute. Spend time together that has lasting effects well beyond just that week.
+
+* <h3>1-on-1 advising and mentoring
+> We are committed to helping individuals build the necessary skills to effectively lead their teams and drive their companies to success.
+ 
+ 
+<h2><b><i>I'm looking forward to helping you achieve those goals. Please [email me](mailto:asheren@gmail.com) for more information and rates.
