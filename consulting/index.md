@@ -10,10 +10,8 @@ As an Engineering leadership consultancy, we provide strategic guidance, mentors
 
 We understand the unique challenges faced by today's engineering leaders. Building high-performing, well-managed, and happy teams is critical to achieving business success. In fact, teams that perform at a high level are more likely to achieve their goals and objectives, deliver better results, and maintain higher levels of engagement and retention leading to less turnover and higher productivity rates.
 
-We offer customized solutions to help you navigate these challenges, optimize your team's performance, and create a culture of excellence.
+We offer customized solutions to help you navigate these challenges, optimize your team's performance, and create a culture of excellence through 3 types of services.
  
-We help Engineering Leaders achieve these goals through 3 types of services:
-
 <h4>Part-time or interim VP of Engineering engagements </h4>
 
 <i> You may not have the need or budget for a full-time VP of Engineering but you need someone with experience and expertise working collaboratively with both your engineering team and your leadership team to get to success. Bringing in a fractional VP of Engineering can lead to a faster time to market, a increase in engineering team productivity, and a reduction in engineering costs while also driving higher levels of employee satisfaction and retention. Solve those problems and set your company up for a better VP of Engineering or CTO hire when you're ready.</i>
@@ -27,4 +25,4 @@ We help Engineering Leaders achieve these goals through 3 types of services:
 <i> We are committed to helping individuals build the necessary skills to effectively lead their teams and drive their companies to success. </i>
  
 -------
-<i>I'm looking forward to helping you achieve those goals. Please <b>[email me](mailto:asheren@gmail.com)</b> for more information and rates.
+<i>I'm looking forward to helping you achieve these goals. Please <b>[email me](mailto:asheren@gmail.com)</b> for more information and rates.
